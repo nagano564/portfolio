@@ -52,6 +52,10 @@ section h3.section-subheading {
   font-family: 'Droid Serif', 'Helvetica Neue', Helvetica, Arial, sans-serif;
 }
 
+#explaination{
+  color: white !important
+}
+
 @media (min-width: 768px) {
   section {
     padding: 150px 0;
@@ -775,4 +779,16 @@ ul.social-buttons li a:active, ul.social-buttons li a:focus, ul.social-buttons l
             filter: blur(0px);
     opacity: 1;
   }
+}
+
+#portfolio{
+  background-color: #e0dedb;
+}
+
+#about{
+  background-color: #e0dedb;
+}
+
+#services{
+  background-color: #ffb642;
 }
