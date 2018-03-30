@@ -53,7 +53,7 @@ section h3.section-subheading {
 }
 
 #explaination{
-  color: white !important
+  color: black !important
 }
 
 @media (min-width: 768px) {
@@ -268,7 +268,7 @@ header.masthead .intro-text .intro-heading {
   height: 20px;
   margin-top: -12px;
   text-align: center;
-  color: white;
+  color: black;
 }
 
 #portfolio .portfolio-item .portfolio-link .portfolio-hover .portfolio-hover-content i {
@@ -599,65 +599,6 @@ header.masthead .intro-text .intro-heading {
   margin-top: 0;
 }
 
-section#contact {
-  background-color: #212529;
-  background-image: url("../img/map-image.png");
-  background-repeat: no-repeat;
-  background-position: center;
-}
-
-section#contact .section-heading {
-  color: #fff;
-}
-
-section#contact .form-group {
-  margin-bottom: 25px;
-}
-
-section#contact .form-group input,
-section#contact .form-group textarea {
-  padding: 20px;
-}
-
-section#contact .form-group input.form-control {
-  height: auto;
-}
-
-section#contact .form-group textarea.form-control {
-  height: 248px;
-}
-
-section#contact .form-control:focus {
-  border-color: #fed136;
-  box-shadow: none;
-}
-
-section#contact ::-webkit-input-placeholder {
-  font-weight: 700;
-  color: #ced4da;
-  font-family: 'Montserrat', 'Helvetica Neue', Helvetica, Arial, sans-serif;
-}
-
-section#contact :-moz-placeholder {
-  font-weight: 700;
-  color: #ced4da;
-  /* Firefox 18- */
-  font-family: 'Montserrat', 'Helvetica Neue', Helvetica, Arial, sans-serif;
-}
-
-section#contact ::-moz-placeholder {
-  font-weight: 700;
-  color: #ced4da;
-  /* Firefox 19+ */
-  font-family: 'Montserrat', 'Helvetica Neue', Helvetica, Arial, sans-serif;
-}
-
-section#contact :-ms-input-placeholder {
-  font-weight: 700;
-  color: #ced4da;
-  font-family: 'Montserrat', 'Helvetica Neue', Helvetica, Arial, sans-serif;
-}
-
 footer {
   padding: 25px 0;
   text-align: center;
@@ -709,7 +650,7 @@ ul.social-buttons li a:active, ul.social-buttons li a:focus, ul.social-buttons l
 .me {
 	-webkit-animation: slide-in-elliptic-top-fwd 0.7s cubic-bezier(0.250, 0.460, 0.450, 0.940) both;
 	        animation: slide-in-elliptic-top-fwd 0.7s cubic-bezier(0.250, 0.460, 0.450, 0.940) both;
-  max-width: 15%;
+  max-width: 24%;
   margin-bottom: 10px;
 }
 
