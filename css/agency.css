@@ -173,6 +173,7 @@ img::-moz-selection {
 }
 
 header.masthead {
+  
   text-align: center;
   color: white;
   background-image: url("../img/giphy.gif");
@@ -629,7 +630,7 @@ ul.social-buttons li a:active, ul.social-buttons li a:focus, ul.social-buttons l
 .me {
 	-webkit-animation: slide-in-elliptic-top-fwd 0.7s cubic-bezier(0.250, 0.460, 0.450, 0.940) both;
 	        animation: slide-in-elliptic-top-fwd 0.7s cubic-bezier(0.250, 0.460, 0.450, 0.940) both;
-  max-width: 250px;
+  max-width: 250;
   margin-bottom: 10px;
 }
 
