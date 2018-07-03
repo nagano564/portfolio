@@ -255,6 +255,8 @@ h3.w3l_head, h3.agileits-title, h3.agile-title, h3.agile-contact, div#wthreeskil
     float:right;
     width:73%;
     padding: 1.5em 0em;
+    background-color: #ffffff;
+    opacity: 0.6;
 }
 /*-- //About-ends-here --*/
 /*-- skills --*/
