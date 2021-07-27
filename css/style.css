@@ -121,6 +121,7 @@ body a:focus {
     color: #fff;
     font-weight: 600;
     letter-spacing: 2px;
+    padding-bottom: 5px;
 	font-family: 'Julius Sans One', sans-serif;
 	
 }
