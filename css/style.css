@@ -10,7 +10,6 @@ body{
 	background: #181B27;
 	height: auto;
 	width: 100%;
-  overflow: hidden;
 }  
 body a{
 	transition: 0.5s all;
@@ -115,13 +114,14 @@ body a:focus {
 .w3-banner-bot_icon_txt {
     width: 74%;
     float: right;
+    padding-bottom: 100px;
+
 }
 .w3-banner-bot_icon_txt a{
 	font-size: 2.3em;
     color: #fff;
     font-weight: 600;
     letter-spacing: 2px;
-    padding-bottom: 5px;
 	font-family: 'Julius Sans One', sans-serif;
 	
 }
