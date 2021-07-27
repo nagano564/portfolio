@@ -9,7 +9,8 @@ body{
 	font-family: 'Roboto', sans-serif; 
 	background: #181B27;
 	height: auto;
-	width: 100%;  
+	width: 100%;
+  overflow: hidden;
 }  
 body a{
 	transition: 0.5s all;
